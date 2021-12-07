@@ -1,6 +1,5 @@
-<!-- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=katymykhailova&color=blue">
-</div> -->
+<!-- **AnnaIzhovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 <img src="https://www.zeluslugi.ru/upload/news/terms20190822-2.gif">
 <h1 align="center">Hi! My name's  Anna👋</h2>
 <h2 align="center">💬 About me</h2>
