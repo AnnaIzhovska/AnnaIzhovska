@@ -1,4 +1,6 @@
-<img align="center" src="https://www.zeluslugi.ru/upload/news/terms20190822-2.gif">
+<div align="center" >
+<img src="https://www.zeluslugi.ru/upload/news/terms20190822-2.gif">
+</div>
 <h1 align="center">Hi! My name's  Anna👋</h2>
 <h2 align="center">💬 About me</h2>
 <h2 align="center">I'm Front-End (FullStack) developer</h2>
