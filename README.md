@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="https://www.zeluslugi.ru/upload/news/terms20190822-2.gif">
+<img src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif">
 </div>
 <h1 align="center">Hi! My name's  Anna👋</h2>
 <h2 align="center">💬 About me</h2>
