@@ -1,7 +1,7 @@
 <!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=katymykhailova&color=blue">
 </div> -->
-<img src="https://besthqwallpapers.com/Uploads/7-3-2021/159765/thumb2-3d-black-honeycomb-3d-background-black-hexagons-background-black-honeycomb-background-glass-black-honeycomb-texture.jpg">
+<img src="https://www.zeluslugi.ru/upload/news/terms20190822-2.gif">
 <h1 align="center">Hi! My name's  Anna👋</h2>
 <h2 align="center">💬 About me</h2>
 <h2 align="center">I'm Front-End (FullStack) developer</h2>
