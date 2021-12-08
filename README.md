@@ -45,53 +45,9 @@
 
 <img align="left"  alt="NPM" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" />
 
-<!-- <div>
-  <h2>Tech Skills</h2>
-  <ul>
-    <li>
-      <span >HTML5/CSS3/SASS/BEM</span>
-    </li>
-    <li>
-      <span >JavaScript Es6+</span>
-    </li>
-    <li>
-      <span >React.js/React router/React hooks</span>
-    </li>
-    <li>
-      <span >Redux/Redux Toolkit/Async Redux</span>
-    </li>
-    <li>
-      <span >React Native </span>
-    </li>
-    <li>
-      <span >WebPack</span>
-    </li>
-    <li>
-      <span >Parcel</span>
-    </li>
-    <li>
-      <span >Handlebars</span>
-    </li>    
-    <li>
-      <span >REST API</span>
-    </li>
-    <li>
-      <span >NPM </span>
-    </li>
-    <li>
-      <span >Formik/Yup/React Hook Form/Axios/Emotion/Material-UI/Bootstrap/others...</span>
-    </li>
-    <li>
-      <span >Figma </span>
-    </li>
-     <li>
-      <span >TypeScript</span>
-    </li>
-  </ul>
-</div> -->
 
+  ## Soft Skills:
 <div >
-<h2>Soft Skills:</h2>
   <ul>
     <li>
       <span >Responsibility</span>
