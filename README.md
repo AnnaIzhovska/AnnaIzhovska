@@ -8,7 +8,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/izhovska/)
 
-  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=telegram&link=https://t.me/sanyavasilchuk)](https://t.me/sanyavasilchuk)
+  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=telegram&link=https://t.me/AnnaIzhovska)](https://t.me/AnnaIzhovska)
 
 <h2 align="center">💬 About me</h2>
 <h2 align="center">I'm Front-End (FullStack) developer</h2>
